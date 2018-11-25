@@ -1,0 +1,24 @@
+
+body{
+	background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: white;
+}
+
+ul{
+	border-style: outset;
+	border-color: blue;
+	color: white;
+}
+
+code{
+	border-style: solid;
+	border-color: white;
+	color: white;
+}
+
+p{
+	color: white;
+}
