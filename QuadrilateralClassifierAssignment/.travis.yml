@@ -1,2 +1,6 @@
 language: cpp
-compiler: clang
+script: scons
+compiler: clang++
+os: osx
+
+script: make && make test

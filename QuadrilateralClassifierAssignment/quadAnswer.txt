@@ -10,10 +10,10 @@ parallelogram
 parallelogram 
 rhombus
 rhombus
-scalene
-scalene
+quadrilateral
+quadrilateral
 square
 trapezoid
 kite
 rhombus
-parallelogram
+quadrilateral
