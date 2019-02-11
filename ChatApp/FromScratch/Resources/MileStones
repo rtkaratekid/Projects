@@ -1,0 +1,12 @@
+-Make a home html page check!
+-Make a html body check!
+-Have the "join" button change my webpage to the given chatroom check!
+-Store chatroom information check!
+-Figure out what the heck AJAX has to do with calling a file with previous chats check!
+-Execute what I figured out, so chat history is loaded when joining chat room check!
+-Figure out websocket stuff to send message to server check!
+-Figure out how to have the server update the body so I get old messages back. check!
+-Clear message input bar check!
+-Link the join and send buttons to the enter key check!
+-Now get enter key to not change the page
+-Make it DOPE check!
